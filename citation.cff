@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Statistical Analysis of Molecular Docking-Derived Binding Energies Distribution"
+type: software
+
+abstract: >
+  R code for statistical analysis of molecular docking-derived
+  binding-energy values across JAK1, JAK2, JAK3, and TYK2.
+
+keywords:
+  - molecular docking
+  - JAK isoforms
+  - phytochemicals
+  - flavonoids
+  - Wilcoxon rank-sum test
+  - Holm correction
+
+repository-code: "https://github.com/kritigupta1999/Statistical-Analysis"
+
+message: "Please cite the associated publication when using this repository."
