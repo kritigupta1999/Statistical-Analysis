@@ -104,5 +104,8 @@ Citation
 
 If the code or data from this repository are used, please cite the associated publication.
 
-Author
-Kriti Gupta
+DOI
+https://doi.org/10.5281/zenodo.23051817 
+
+Authors
+Kriti Gupta, Manjari Jonnalagadda, Richa Ashma
